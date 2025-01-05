@@ -13,3 +13,9 @@
 + git rebase
 + git reset
 + git remote add/remove/show origin
++ git status
++ git add
++ git commit
+- issues => assign tasks to team members
++ each issue is given a number started with #
++ #1, #2...
